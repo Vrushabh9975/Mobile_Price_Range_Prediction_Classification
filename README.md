@@ -1,4 +1,4 @@
-# Mobile_Price_Range_Prediction_Classification_Aniket_Nichat
+# Mobile_Price_Range_Prediction_Classification
 
 In the competitive mobile phone market companies want
 to understand sales data of mobile phones and factors which drive the prices.
